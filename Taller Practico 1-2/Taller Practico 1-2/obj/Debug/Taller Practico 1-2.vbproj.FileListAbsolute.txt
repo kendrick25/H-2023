@@ -1,0 +1,12 @@
+C:\Users\kendr\source\repos\Taller Practico 1-2\Taller Practico 1-2\obj\Debug\Taller Practico 1-2.vbproj.AssemblyReference.cache
+C:\Users\kendr\source\repos\Taller Practico 1-2\Taller Practico 1-2\obj\Debug\Taller Practico 1-2.vbproj.SuggestedBindingRedirects.cache
+C:\Users\kendr\source\repos\Taller Practico 1-2\Taller Practico 1-2\obj\Debug\Taller_Practico_1_2.Resources.resources
+C:\Users\kendr\source\repos\Taller Practico 1-2\Taller Practico 1-2\obj\Debug\Taller Practico 1-2.vbproj.GenerateResource.cache
+C:\Users\kendr\source\repos\Taller Practico 1-2\Taller Practico 1-2\obj\Debug\Taller Practico 1-2.vbproj.CoreCompileInputs.cache
+C:\Users\kendr\source\repos\Taller Practico 1-2\Taller Practico 1-2\bin\Debug\Taller Practico 1-2.exe.config
+C:\Users\kendr\source\repos\Taller Practico 1-2\Taller Practico 1-2\bin\Debug\Taller Practico 1-2.exe
+C:\Users\kendr\source\repos\Taller Practico 1-2\Taller Practico 1-2\bin\Debug\Taller Practico 1-2.pdb
+C:\Users\kendr\source\repos\Taller Practico 1-2\Taller Practico 1-2\bin\Debug\Taller Practico 1-2.xml
+C:\Users\kendr\source\repos\Taller Practico 1-2\Taller Practico 1-2\obj\Debug\Taller Practico 1-2.exe
+C:\Users\kendr\source\repos\Taller Practico 1-2\Taller Practico 1-2\obj\Debug\Taller Practico 1-2.xml
+C:\Users\kendr\source\repos\Taller Practico 1-2\Taller Practico 1-2\obj\Debug\Taller Practico 1-2.pdb
